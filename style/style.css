@@ -1,0 +1,26 @@
+  .cont {
+    display: flex;
+    flex-flow: row wrap;
+    margin: auto;
+  }
+  
+  .imageBlock{  
+    height: 400px;
+    width: auto;
+    margin-bottom: 3px;
+  }
+    
+  img {
+    width: 76%;
+    height: auto;
+    display: block;
+    border: 2px solid black;
+  }
+
+  .movieBlock{
+    height: 730px;
+    width: 350px;
+    margin: auto;
+    position: relative;
+    margin: 0 10px 10px 10px;
+  }
